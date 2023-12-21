@@ -364,3 +364,31 @@ Follow the following the steps to compile a windows target:
 
 To run the full pipeline for Widnows targets, you must have [llvm-pdbutil](https://github.com/shaharv/llvm-pdbutil-builds)
 installed on the system. 
+
+## Citation
+```bib
+@inproceedings{basque24ahoy,
+  title={Ahoy SAILR! There is No Need to DREAM of C: A Compiler-Aware Structuring Algorithm for Binary Decompilation},
+  author={Basque, Zion Leonahenahe and Bajaj, Ati Priya and Gibbs, Wil and O’Kain, Jude and Miao, Derron and Bao, Tiffany and Doup{\'e}, Adam and Shoshitaishvili, Yan and Wang, Ruoyu},
+  conference={33st USENIX Security Symposium (USENIX Security 24)},
+  year={2024}
+}
+```
+## References
+```bib
+@software{angr,
+  title={A powerful and user-friendly binary analysis platform!},
+  author={Yan Shoshitaishvili, Audrey Dutcher, Nilo Redini, ...},
+  license={BSD-2-Clause license},
+  year={2023},
+  url={[https://github.com/harness/gitness](https://github.com/angr/angr)}
+}
+
+@software{gitness,
+  title={Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.},
+  author={Johannes Batzil, Tan Nhu, Enver Bisevac, Marko Gacesa, Calvin Lee, Abhinav Singh, Atefeh Mohseni Ejiyeh, Hitesh Aringa, ...},
+  license={Apache-2.0},
+  year={2023},
+  url={https://github.com/harness/gitness}
+}
+```
